@@ -1,6 +1,6 @@
 # Embedded_Device_Bop-it
 
-NOTE: Please read the PDF documentation.pdf in the docs
+NOTE: Please read the PDF ![documentation.pdf](https://github.com/vergi1iu5/Embedded_Device_Bop-It/blob/main/Docs/documentation.pdf) in the docs for more info.
 
 # Introduction
 
